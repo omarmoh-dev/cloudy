@@ -1,0 +1,40 @@
+body{
+
+    
+background-image: url('image/pexels-pixabay-147413.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+}
+div{
+color: red;
+}
+h1{
+color:white;
+font-family: verdana,Arial, Helvetica,sans-serif;
+font-size:36px;
+font-weight: bolder;
+}
+p{
+color:orange;
+font-family: Tahoma, Verdana, sans-serif;
+font-size:30px ;
+font-weight:100 ;
+line-height: 30px;
+direction: rtl;
+}
+a{
+text-decoration: none;
+color:orange ;
+cursor: grab;
+}
+a:hover{
+color:aqua;
+}
+.links{
+    border: 4px rgb(93, 101, 223) solid ;
+padding:10px;
+margin-top: 40px;
+margin-left: 100px;
+margin-right: 50px;
+}
+    
